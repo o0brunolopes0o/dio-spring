@@ -1,4 +1,4 @@
-package dio.primeiros_passos.app;
+package dio.springboot.app;
 
 import com.google.gson.Gson;
 import org.springframework.beans.factory.annotation.Autowired;

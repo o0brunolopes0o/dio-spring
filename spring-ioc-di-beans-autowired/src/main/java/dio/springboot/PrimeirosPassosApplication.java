@@ -1,8 +1,7 @@
-package dio.primeiros_passos;
+package dio.springboot;
 
-import com.google.gson.Gson;
-import dio.primeiros_passos.app.ConversorJson;
-import dio.primeiros_passos.app.ViaCepResponse;
+import dio.springboot.app.ConversorJson;
+import dio.springboot.app.ViaCepResponse;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
